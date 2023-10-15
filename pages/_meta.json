@@ -11,5 +11,17 @@
     "type": "page",
     "href": "https://twitter.com/shuding_",
     "newWindow": true
+  },
+  "frameworks": {
+    "title": "Frameworks",
+    "type": "page"
+  },
+  "fruits": {
+    "title": "Fruits",
+    "type": "page"
+  },
+  "about2": {
+    "title": "About",
+    "type": "page"
   }
 }
